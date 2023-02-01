@@ -7,7 +7,7 @@ porfolio site
 
 ## Installation
 
-N/A
+Link to site https://mariaxisabelle.github.io/module-two-portfolio/
 
 ##Usage
 
