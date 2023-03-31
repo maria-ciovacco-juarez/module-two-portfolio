@@ -7,7 +7,7 @@ porfolio site
 
 ## Installation
 
-Link to site https://mariaxisabelle.github.io/module-two-portfolio/
+Link to site https://maria-ciovacco-juarez.github.io/module-two-portfolio/
 
 ##Usage
 
